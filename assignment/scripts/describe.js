@@ -27,7 +27,7 @@ if (number >= 2) {
 
 // 1. WRITE YOUR DESCRIPTION HERE
 // We make a variable called name and assign it to be equal to the string 'Dane'
-//
+// We 
 //
 //
 
