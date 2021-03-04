@@ -27,9 +27,9 @@ if (number >= 2) {
 
 // 1. WRITE YOUR DESCRIPTION HERE
 // We make a variable called name and assign it to be equal to the string 'Dane'
-// We 
-//
-//
+// Conditional statement checks with the variable name is defined as 'Mary'
+// If the conditional statement is true the console.log prints 'Hi, Mary!'
+// If the conditional statement is false the console.log prints 'How do you do?'
 
 //CODE
 /*
@@ -45,7 +45,7 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-//
+// We create a let statement with the text variabe secret
 //
 //
 //
@@ -130,6 +130,10 @@ if (number >= 2) {
 // -- it is, so we set colorOne and colorTwo to 'purple'
 
 /*
+// FIX - colorOne should be set to blue, and colorTwo should be set to red.
+// Should be
+// let colorOne = 'blue';
+// let colorTwo = 'red';
 let colorOne = 'red';
 let colorTwo = 'blue';
 let mix = true;
@@ -147,6 +151,8 @@ if (mix === true) {
 let temp = 40;
 const time = 4;
 
+//FIX - incorrect logic operator!
+// Line 156 should be: if (temp > 39 && time >= 4) {
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
 }
@@ -161,6 +167,9 @@ let age = 21;
 const minAge = 21;
 
 if(minAge <= age) {
+// FIX - incorrect console.log values
+// line 173 should be: console.log('enter');
+// line 175 should be: console.log('no entry');
   console.log('no entry');
 } else {
   console.log('enter');
