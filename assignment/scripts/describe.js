@@ -45,10 +45,10 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// We create a let statement with the text variabe secret
-//
-//
-//
+// We create a variable named Secret.
+// We create a variable named code and assign it to be equal to 123
+// We create a conditional statement that if the code is equalto 123 than the secret will be equal to string 'super' and the code will be multiplied by 2
+// We create a conditional statement that that reassigns the value of secret to 'duper' if the value of 'code' is over 250
 
 //CODE
 /*
