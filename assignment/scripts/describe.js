@@ -70,10 +70,11 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-//
-//
-//
-//
+// We create several variables and assign them values
+// We create a conditional statement, first it checks if the value of isStudent is true AND if their zip code is GREATER THAN 8000, this is not true so the console.log does not print.
+// Next we check if the value of isStudent is false OR the value of age is less than 30, neither condition is met so the console.log does not print
+// Next we check is the value of isStudent is true, it is so the console.log printws 'Welcome to Prime!'
+// Lastly, the console.log will print the string 'How about the weather?' if none of the conditions are met.
 
 //CODE
 /*
