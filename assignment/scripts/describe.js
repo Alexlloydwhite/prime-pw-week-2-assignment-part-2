@@ -28,8 +28,7 @@ if (number >= 2) {
 // 1. WRITE YOUR DESCRIPTION HERE
 // We make a variable called name and assign it to be equal to the string 'Dane'
 // Conditional statement checks with the variable name is defined as 'Mary'
-// If the conditional statement is true the console.log prints 'Hi, Mary!'
-// If the conditional statement is false the console.log prints 'How do you do?'
+// Name is not equal to Mary so we console log 'How do you do?'
 
 //CODE
 /*
@@ -46,9 +45,9 @@ if (name === 'Mary') {
 
 // 2. WRITE YOUR DESCRIPTION HERE
 // We create a variable named Secret.
-// We create a variable named code and assign it to be equal to 123
-// We create a conditional statement that if the code is equalto 123 than the secret will be equal to string 'super' and the code will be multiplied by 2
+// We create a conditional statement that if the code is equal to 123 than the secret will be equal to string 'super' and the code will be multiplied by 2
 // We create a conditional statement that that reassigns the value of secret to 'duper' if the value of 'code' is over 250
+// We console.log the value of secret, which is 'super'
 
 //CODE
 /*
@@ -140,6 +139,7 @@ let colorTwo = 'blue';
 let mix = true;
 
 if (mix === true) {
+// FIX - colorOne & colorTwo = 'purple';
   colorOne = 'purple';
 }
 */
